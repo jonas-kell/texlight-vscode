@@ -1,0 +1,1 @@
+# texlight-vscode
