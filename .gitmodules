@@ -1,0 +1,3 @@
+[submodule "texlight"]
+	path = texlight
+	url = https://github.com/jonas-kell/texlight
