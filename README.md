@@ -24,3 +24,5 @@ cargo build
 npm install
 npm run compile-dev
 ```
+
+https://code.visualstudio.com/blogs/2024/06/07/wasm-part2
