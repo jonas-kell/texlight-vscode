@@ -10,3 +10,17 @@ The code that gets referenced in the thesis is managed via git-submodules and ne
 git submodule init
 git pull --recurse-submodules
 ```
+
+## compile the server for dev
+
+```shell
+cd texlight
+cargo build
+```
+
+## Installation pre-requirements for debugging the client in VS-Code
+
+```shell
+npm install
+npm run compile-dev
+```
